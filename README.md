@@ -1,5 +1,7 @@
 # NodeSchool Wellington
 
+![logo](https://rawgithub.com/nodeschool/wellington/master/media/logo-pre1.svg)
+
 [![Gitter chat](https://badges.gitter.im/nodeschool/wellington.png)](https://gitter.im/nodeschool/wellington)
 
 This is the NodeSchool chapter for Wellington, New Zealand.
