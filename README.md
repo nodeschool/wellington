@@ -16,5 +16,3 @@ We currently meet 6:30pm every Tuesday at [Enspiral Dev Academy](http://www.meet
 
 ## Mentors
 
-## Organizers
-
