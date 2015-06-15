@@ -27,9 +27,9 @@ please contact an organizer immediately.
 
 ### NodeSchool Wellington
 
-* Organizers:
-  - Mikey (mikey@enspiral.com, @ahdinosaur)
-* Website URL: http://nodeschool.io/wellington
+* [Mentors](/#Mentors)
+* [Organizers](/#Organizers)
+* [Website](/)
 
 **If you have questions or feedback about this Code of Conduct please contact
 one of the organizers.**
