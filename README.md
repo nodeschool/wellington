@@ -16,8 +16,5 @@ We currently meet 6:30pm every Tuesday at [Enspiral Dev Academy](http://www.meet
 
 ## Mentors
 
-- Mikey (mikey@enspiral.com, @ahdinosaur)
-
 ## Organizers
 
-- Mikey (mikey@enspiral.com, @ahdinosaur)
