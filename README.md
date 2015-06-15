@@ -12,4 +12,4 @@ Have a question? [Open an issue](https://github.com/nodeschool/wellington/issues
 
 ## Time and Place
 
-We currently meet 6:30pm every Tuesday at [Enspiral Dev Academy](http://devacademy.co.nz).
+We currently meet 6:30pm every Tuesday at [Enspiral Dev Academy](http://www.meetup.com/Enspiral-Dev-Academy-Meetup/).
