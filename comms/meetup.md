@@ -1,7 +1,6 @@
 # NodeSchool Wellington
 
-
-Come learn JavaScript at our weekly NodeSchool Wellington!
+Come learn JavaScript at NodeSchool Wellington!
 
 (ﾉ´ヮ´)ﾉ*:･ﾟ✧
 
@@ -14,4 +13,4 @@ This weekly Node.js night is for anyone who wants to learn or teach the art of J
 
 The night is intended to be a low-stress environment to work together, get feedback on our projects, help each other get through difficult spots, and share tricks we learn. If at any point you feel lost, talk to one of the magicians.
 
-There are no fees for these sessions, but any koha for the event organizers is greatly appreciated ＼(＾▽＾)／
+There are no fees for these sessions, but any koha for magicians is greatly appreciated. ＼(＾▽＾)／
