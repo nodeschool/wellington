@@ -27,9 +27,9 @@ please contact an organizer immediately.
 
 ### NodeSchool Wellington
 
-* [Mentors](/#Mentors)
-* [Organizers](/#Organizers)
-* [Website](/)
+* [Mentors](/README.md#mentors)
+* [Organizers](/README.md#organizers)
+* [Website](/README.md#nodeschool-wellington)
 
 **If you have questions or feedback about this Code of Conduct please contact
 one of the organizers.**
