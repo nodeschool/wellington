@@ -1,6 +1,6 @@
 # NodeSchool Wellington
 
-[![logo](https://rawgithub.com/nodeschool/wellington/master/media/logo-pre2.svg)](https://github.com/nodeschool/wellington/issues/1)
+[![logo](https://rawgithub.com/nodeschool/wellington/master/media/logo-pre4.svg)](https://github.com/nodeschool/wellington/issues/1)
 
 [![Gitter chat](https://badges.gitter.im/nodeschool/wellington.png)](https://gitter.im/nodeschool/wellington)
 
