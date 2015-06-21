@@ -1,5 +1,5 @@
 
-# nodeschool-wellington-website
+# NodeSchool Wellington website
 
 website for NodeSchool Wellington
 
@@ -8,8 +8,8 @@ website for NodeSchool Wellington
 ### install
 
 ```
-git clone https://github.com/nodeschool/nodeschool-wellington-website
-cd 
+git clone https://github.com/nodeschool/wellington
+cd wellington/website
 npm install
 ```
 
