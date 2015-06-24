@@ -28,7 +28,9 @@
     "url": "https://github.com/nodeschool/wellington/issues"
   },
   "homepage": "https://github.com/nodeschool/wellington",
-  "dependencies": {},
+  "dependencies": {
+    "normalize-css": "^2.3.1"
+  },
   "devDependencies": {
     "browserify": "^9.0.7",
     "budo": "^2.1.3",
