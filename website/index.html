@@ -4,14 +4,66 @@
     <meta charset="utf-8" />
     <title>NodeSchool Wellington</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="apple-touch-icon" href="images/favicon/apple-touch-icon.png" />
+    <link rel="apple-touch-icon" sizes="57x57" href="images/favicon/apple-touch-icon-57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="images/favicon/apple-touch-icon-72x72.png" />
+    <link rel="apple-touch-icon" sizes="76x76" href="images/favicon/apple-touch-icon-76x76.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="images/favicon/apple-touch-icon-114x114.png" />
+    <link rel="apple-touch-icon" sizes="120x120" href="images/favicon/apple-touch-icon-120x120.png" />
+    <link rel="apple-touch-icon" sizes="144x144" href="images/favicon/apple-touch-icon-144x144.png" />
+    <link rel="apple-touch-icon" sizes="152x152" href="images/favicon/apple-touch-icon-152x152.png" />
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
     <link href="index.css" rel="stylesheet" />
   </head>
   <body>
+
+    <div class="header">
+      <div id="large-header" class="large-header">
+        <canvas id="header-canvas"></canvas>
+        <div class="nodeschool"></div>
+        <div class="desktop">
+          <div class="buckets"></div>
+          <h1 class="main-title left">NodeSchool</span></h1>
+          <h1 class="main-title right">Wellington</span></h1>
+        </div>
+        <div class="mobile">
+          <h1 class="main-title">NodeSchool Wellington</h1>
+        </div>
+      </div>
+    </div>
     <main>
-      <header>
-        <h1>NodeSchool Wellington</h1>
-      </header>
+      <section>
+        <div class="content">
+          <h2><i class="fa fa-university"></i> What is NodeSchool?</h2>
+          <p>NodeSchool is an open source project run by volunteers with two goals: to create high quality programming curriculum and to host community learning events.</p>
+        </div>
+      </section>
+      <section>
+        <div class="content">
+          <h2><i class="fa fa-globe"></i></i> Wellington Community</h2>
+          <p>Wellingtion, the capital of New Zealand, is a virbrant city filled with lots of culture. People of all backgrounds come together to both learn from and mentor others.</p>
+          <p>All skill levels are encouraged to come participate in the weekly meetups. We are always happy to foster growth of those new to Node.JS; and, at the same time, there is an open call for mentors to participate in sharing Node with others.</p>
+        </div>
+      </section>
+      <section>
+        <div class="content">
+          <h2><i class="fa fa-user-plus"></i> Get involved</h2>
+          <p>Join us at one of the weekly meet-ups. Or, View NodeSchool Wellington's<a href="https://github.com/nodeschool/wellington/issues"> GitHub</a>. Come learn, observe, mentor, and connect in a fun and friendly environment. </p>
+          <div class="left">
+            <h3><i class="fa fa-calendar"></i>  When:</h3>
+            <p><strong>Thursdays @ 6:30pm </strong></p>
+          </div>
+          <div class="right">
+            <h3><i class="fa fa-map-marker"></i> Where:</h3>
+            <p>Enspiral Dev Academy</p>
+            <a href="https://www.google.co.nz/maps/place/Terralink+International/@-41.296863,174.773798,17z/data=!3m1!4b1!4m2!3m1!1s0x6d38afd8a382c3a9:0xf121c4c3f8c8f09f">Level 2, 275 Cuba St. Wellington, New Zealand</a>
+          </div>
+        </div>
+      </section>
     </main>
+    <footer>
+      <p> <a href="https://github.com/nodeschool/wellington">NodeSchool Wellington</a> | <a href="http://nodeschool.io/">Nodeschool.io</a> </p>
+    </footer>
     <script src="bundle.js"></script>
   </body>
 </html>

@@ -1,16 +1,147 @@
-html {
-  box-sizing: border-box;
+/***************
+GENERAL
+****************/
+
+body {
+  background: #f9f1e9;
+  color: #383a3c;
+  font-weight: 400;
+  font-size: 1em;
+  line-height: 1.25;
+  font-family: Calibri, Arial, sans-serif;
 }
 
-*, *:before, *:after {
-  box-sizing: inherit;
+a{
+  color: teal;
+  text-decoration: none;
 }
 
-html, body, main {
-  width: 100%;
-  height: 100%;
+a:hover{
+  opacity: .5;
 }
 
-header {
+main{
+  padding: 3% 0;
+}
+
+/***************
+HEADING
+****************/
+
+
+.header{
+  background-color: teal;
+  position: relative;
+}
+
+.main-title{
+  color: #f9f1e9;
   text-align: center;
+  font-size: 5em;
+}
+.main-title.left{
+  position: absolute;
+  top: 40%;
+  left: 20%;
+  -webkit-transform: translate3d(-50%,-50%,0);
+  transform: translate3d(-50%,-50%,0);
+}
+.main-title.right{
+  position: absolute;
+  top: 40%;
+  left: 80%;
+  -webkit-transform: translate3d(-50%,-50%,0);
+  transform: translate3d(-50%,-50%,0);
+}
+.mobile .main-title{
+  position: absolute;
+  max-width: 90%;
+  top: 30%;
+  left: 50%;
+  -webkit-transform: translate3d(-50%,-50%,0);
+  transform: translate3d(-50%,-50%,0);
+}
+
+.buckets {
+  width: 99%;
+  height: 50vh;
+  background: url(images/bucket-fountain.svg) no-repeat center center;
+  position: absolute;
+  z-index: 2;
+  top: 0%;
+  left: 1%;
+  /*-webkit-transform: translate3d(-50%,0,0);
+  transform: translate3d(-50%,0,0);*/
+}
+.nodeschool {
+  fill: white;
+  width: 100%;
+  height: 44vh;
+  background: url(images/nodeschool.svg) no-repeat center center;
+  opacity: .07;
+  position: absolute;
+  top: 3%;
+  left: 0%;
+  /*-webkit-transform: translate3d(-50%,0,0);
+  transform: translate3d(-50%,0,0);*/
+}
+
+/***************
+CONTENT
+****************/
+section{
+  margin: 3% auto;
+}
+.content{
+  max-width: 750px;
+  width: 90%;
+  margin: 0 auto;
+  font-size: 18px;
+}
+.left, .right{
+  width: 46%;
+  margin: 2%;
+  display: inline-block;
+}
+.left{
+  float: left;
+}
+.content .fa{
+  padding-right: 5px;
+}
+
+/***************
+Footer
+****************/
+
+footer{
+  background: url(images/classy_fabric/classy_fabric.png);
+  padding: 1em;
+  color: #f9f1e9;
+  text-align: center;
+}
+/***************
+Responsive
+****************/
+@media screen and (max-width: 786px) {
+
+  .mobile .main-title{
+    font-size: 45px;
+    top: 24%;
+  }
+  .nodeschool{
+    height: 27vh;
+  }
+}
+@media screen and (max-width: 1022px) {
+
+  .desktop{
+    display: none;
+  }
+}
+@media screen and (min-width: 1021px) {
+
+  .mobile{
+    display: none;
+  }
 }
