@@ -8,7 +8,7 @@
     addListeners();
 
     function initHeader() {
-        width = window.innerWidth;
+        width = window.innerWidth - 25;
         height = window.innerHeight * .5;
         if (window.innerWidth < 768) {height = window.innerHeight * .3}
 
@@ -43,7 +43,7 @@
     }
 
     function resize() {
-        width = window.innerWidth;
+        width = window.innerWidth - 25;
         height = window.innerHeight * .5;
         if (window.innerWidth < 768) {height = window.innerHeight * .3}
         largeHeader.style.height = height+'px';
