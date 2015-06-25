@@ -47,9 +47,10 @@ HEADING
   transform: translate3d(-50%,-50%,0);
 }
 .main-title.right{
+  width: 0;
   position: absolute;
   top: 40%;
-  left: 80%;
+  right: 33%;
   -webkit-transform: translate3d(-50%,-50%,0);
   transform: translate3d(-50%,-50%,0);
 }
