@@ -1,5 +1,9 @@
+/***************
+GENERAL
+****************/
+
 body {
-  background: #fff;
+  background: #f9f1e9;
   color: #383a3c;
   font-weight: 400;
   font-size: 1em;
@@ -7,10 +11,23 @@ body {
   font-family: Calibri, Arial, sans-serif;
 }
 
-header {
-  text-align: center;
-  background-color: teal;
+a{
+  color: teal;
+  text-decoration: none;
 }
+
+a:hover{
+  opacity: .5;
+}
+
+main{
+  padding: 3% 0;
+}
+
+/***************
+HEADING
+****************/
+
 
 .header{
   background-color: teal;
@@ -68,6 +85,44 @@ header {
   /*-webkit-transform: translate3d(-50%,0,0);
   transform: translate3d(-50%,0,0);*/
 }
+
+/***************
+CONTENT
+****************/
+section{
+  margin: 3% auto;
+}
+.content{
+  max-width: 750px;
+  width: 90%;
+  margin: 0 auto;
+  font-size: 18px;
+}
+.left, .right{
+  width: 46%;
+  margin: 2%;
+  display: inline-block;
+}
+.left{
+  float: left;
+}
+.content .fa{
+  padding-right: 5px;
+}
+
+/***************
+Footer
+****************/
+
+footer{
+  background: url(images/classy_fabric/classy_fabric.png);
+  padding: 1em;
+  color: #f9f1e9;
+  text-align: center;
+}
+/***************
+Responsive
+****************/
 @media screen and (max-width: 786px) {
 
   .mobile .main-title{
