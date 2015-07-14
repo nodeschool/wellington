@@ -1,6 +1,6 @@
 # NodeSchool Wellington
 
-Come learn JavaScript at NodeSchool Wellington!
+Come learn JavaScript at  [NodeSchool Wellington](http://nodeschool.io/wellington)!
 
 (ﾉ´ヮ´)ﾉ*:･ﾟ✧
 
